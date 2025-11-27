@@ -1,3 +1,5 @@
+from PIL import Image
+import numpy as np
 def main():
     pass
 
@@ -8,5 +10,5 @@ def deCompress():
     pass
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
